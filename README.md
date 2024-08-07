@@ -43,7 +43,7 @@ Automatically Derived relationships are adjusted to remove and replace unwanted 
 
 ## Snapshot of Dashboard
 
-
+![](NORTHWIND_DASHBOARD_page-0001.jpg)
 
 
 
